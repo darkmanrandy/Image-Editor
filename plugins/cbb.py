@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "Share Your Friends", url="http://t.me/share/url?url=Join%20%28%40tharamaanateambot%29%20to%20download%20all%20tamil%20movies%2C%20series%2C%20songs%20and%20youtube%20videos%2E"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "Share Your Friends", url="http://t.me/share/url?url=Join%20%28%40tharamaanateambot%29%20to%20download%20all%20tamil%20movies%2C%20series%2C%20songs%20and%20youtube%20videos%2E"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor"
+                        "Share Your Friends", url="http://t.me/share/url?url=Join%20%28%40tharamaanateambot%29%20to%20download%20all%20tamil%20movies%2C%20series%2C%20songs%20and%20youtube%20videos%2E"
                     )
                 ],
             ]
